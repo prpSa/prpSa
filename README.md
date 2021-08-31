@@ -1,27 +1,12 @@
-### Hi there Prasanna here 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Prasanna Pagar</h1>
+I am a TE CSE Student who loves to explore new technology. I am pursuing <b>Computer Engineering</b> from Ramrao Adik Institute of Technology, Nerul, Navi Mumbai
+<br>
+<div align="center">
 
-- 🔭 I’m Student
-- 🌱 I’m currently learning machine learning
-- 💬 Ask me about PHP,Java,JavaScript,python
-- 📫 How to reach me: pagarprasanna.2001@gmail.com
-
-<!--
-**prpSa/prpSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=prpSa&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prpSa&layout=compact)
+    </div>
 
+<div align="center">
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -71,4 +56,20 @@ Here are some ideas to get you started:
    <a href="#"><img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">        </a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0078d7.svg?logo=cad&logoColor=white"></a>
+</p>
+    </div>
+    <h1 align="center">Let's Get Connected</h1>
+<p>I am always enthusiast about innovative/disruptive ideas. Find out more about me & feel free to connect with me :</p>
+
+<div align="center">
+
+<a  href="https://www.linkedin.com/in/prasanna-pagar-224977145/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pagarprasanna.2001@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+ <br>
+
+</div>
+    <p align="center"> 
+ <b> You are visitor :</b><br>
+  <img src="https://profile-counter.glitch.me/prpSa/count.svg" />
 </p>
