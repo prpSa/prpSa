@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Prasanna Pagar</h1>
 I am a TE CSE Student who loves to explore new technology. I am pursuing <b>Computer Engineering</b> from Ramrao Adik Institute of Technology, Nerul, Navi Mumbai
-<br>
+<br><br>
 <div align="center">
 
 ![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=prpSa&show_icons=true&theme=great-gatsby)
     </div>
 
 <div align="center">
-## 🛠️ My favorite tools
+    <h1 align="center">🛠️ My favorite tools</h1>
 
 ### 👨‍💻 Programming languages
 
@@ -59,7 +59,7 @@ I am a TE CSE Student who loves to explore new technology. I am pursuing <b>Comp
 </p>
     </div>
     <h1 align="center">Let's Get Connected</h1>
-<p>I am always enthusiast about innovative/disruptive ideas. Find out more about me & feel free to connect with me :</p>
+<p align="center">I am always enthusiast about innovative/disruptive ideas. Find out more about me & feel free to connect with me :</p>
 
 <div align="center">
 
